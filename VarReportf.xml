@@ -1,0 +1,36 @@
+"<root>
+	<Variable sName=""Room"" sScope=""public"" sType=""String"" sModuleName=""Form1"" sFunctionName="""" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""TheData"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Winsock1_DataArrival"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""id2"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Winsock1_DataArrival"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""id1"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Winsock1_DataArrival"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""theserver"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Winsock1_DataArrival"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""joined3"" sScope=""Private"" sType=""Integer"" sModuleName=""Form1"" sFunctionName=""Winsock1_DataArrival"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""joined2"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Winsock1_DataArrival"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""joined"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Winsock1_DataArrival"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""ad3"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Winsock1_DataArrival"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""ad2"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Winsock1_DataArrival"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""ad"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Winsock1_DataArrival"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""op3"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Winsock1_DataArrival"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""op2"" sScope=""Private"" sType=""Integer"" sModuleName=""Form1"" sFunctionName=""Winsock1_DataArrival"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""op"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Winsock1_DataArrival"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""themessage3"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Winsock1_DataArrival"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""themessage2"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Winsock1_DataArrival"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""themessage"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Winsock1_DataArrival"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""theuser2"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Winsock1_DataArrival"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""theuser"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Winsock1_DataArrival"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""list"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""removeitem_Click"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""list"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""remove_Click"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""items2"" sScope=""Private"" sType=""Variant"" sModuleName=""Form1"" sFunctionName=""Form_Load"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""items"" sScope=""Private"" sType=""Variant"" sModuleName=""Form1"" sFunctionName=""Form_Load"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""Listtwo"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Form_Load"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""list"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Form_Load"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""file2"" sScope=""Private"" sType=""Integer"" sModuleName=""Form1"" sFunctionName=""Form_Load"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""file"" sScope=""Private"" sType=""Integer"" sModuleName=""Form1"" sFunctionName=""Form_Load"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""sendtext"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Command9_Click"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""sendtext"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Command8_Click"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""ans"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Command5_Click"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""list"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Command4_Click"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""list"" sScope=""Private"" sType=""String"" sModuleName=""Form1"" sFunctionName=""Command13_Click"" bConst=""0"" vValue="""" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""""/>
+	<Variable sName=""Const SW_SHOWNORMAL"" sScope=""public"" sType=""Not declared - Variant"" sModuleName=""Module1"" sFunctionName="""" bConst=""-1"" vValue=""1"" bWithEvents=""0"" bPreserve=""0"" sDimension="""" sDescription=""You should specify type of const [As 'Data type'] .""/>
+</root>
+"
