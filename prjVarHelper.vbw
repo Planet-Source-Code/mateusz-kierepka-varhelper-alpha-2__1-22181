@@ -1,0 +1,14 @@
+frmAddIn = 22, 22, 643, 391, , 12, 355, 633, 724, C
+Connect = 44, 44, 665, 413, C, 154, 154, 740, 710, C
+clsSearch = 110, 110, 731, 479, 
+modVars = 44, 44, 665, 413, C
+clsVariable = 0, 0, 462, 231, C
+clsFunction = 44, 44, 495, 413, C
+frmScanProgress = 66, 66, 586, 516, C, 88, 88, 608, 538, C
+frmDialog = 22, 22, 382, 391, C, 0, 0, 586, 369, C
+mdlIEnumVariant = 110, 110, 696, 479, C
+FastCollection = 132, 132, 718, 501, 
+modTreeSelect = 22, 22, 382, 391, C
+modLVConst = 22, 22, 383, 391, C
+frmAbout = 22, 22, 367, 460, C, 0, 0, 370, 438, C
+frmHints = 0, 0, 0, 0, C, 66, 66, 636, 504, C
